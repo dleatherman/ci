@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
-- [Sublime Text](https://www.sublimetext.com/)
+- [VS Code](https://code.visualstudio.com/)
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodePen](http://codepen.io/)
