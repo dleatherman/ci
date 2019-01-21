@@ -2,11 +2,18 @@
 permalink: search.json
 ---
 [
-{%- for post in collections.post -%}
+{%- for lectures in collections.lectures -%}
   {
-    "url": "{{ post.url }}",
-    "title": "{{ post.data.title }}",
-    "index": "{{ post.templateContent | squash }}"
+    "url": "{{ lectures.url }}",
+    "title": "{{ lectures.data.title }}",
+    "index": "{{ lectures.templateContent | squash }}"
+  }{% if not loop.last %},{% endif %}
+{%- endfor -%},
+{%- for labs in collections.labs -%}
+  {
+    "url": "{{ labs.url }}",
+    "title": "{{ labs.data.title }}",
+    "index": "{{ labs.templateContent | squash }}"
   }{% if not loop.last %},{% endif %}
 {%- endfor -%}
 ]

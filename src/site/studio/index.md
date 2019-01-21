@@ -4,7 +4,10 @@ subtitle: Tuesdays + Fridays 9-11:40AM
 layout: layouts/base.njk
 ---
 
-<h4>Lectures</h4>
+### Reading
+
+### Lectures
+
 <ul class="listing">
 {%- for page in collections.lecture -%}
   <li>
@@ -13,6 +16,3 @@ layout: layouts/base.njk
   </li>
 {%- endfor -%}
 </ul>
-
-
-
