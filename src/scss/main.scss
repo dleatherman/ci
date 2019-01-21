@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Space+Mono');
 @import '_variables';
 @import '_mixins';
 
@@ -9,25 +10,28 @@
 
 ::-moz-selection {
   background-color: $accent-color;
-  color: $page-color;
+  color: $text-color;
 }
 ::selection {
   background-color: $accent-color;
-  color: $page-color;
+  color: $text-color;
 }
 
 html {
-  background-color: $accent-color;
+  background-color: $page-color;
+  height: 100%;
 }
 
 body {
   text-align: center;
   background-color: $page-color;
   color: mix($text-color, $page-color, 80%);
-  font-family: sans-serif;
-  font-weight: 30;
+  font-family: 'Space Mono', sans-serif;
+  font-weight: 400;
   font-size: 16px;
+  letter-spacing: 0.05em;
   line-height: 1.8;
+  min-height: 100%;
   @include bp(mid) {
     font-size: 18px;
   }
@@ -42,14 +46,15 @@ body {
     width: 600px;
   }
   @include bp(wide) {
-    width: 700px;
+    width: 820px;
   }
 }
 
 
 h1, h2, h3 {
   color: $text-color;
-  font-weight: 600;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
   margin-top:2.5em;
   margin-bottom:1em;
   line-height: 1em;
@@ -111,10 +116,13 @@ a:focus {
     padding-bottom: 2em;
     margin-left: 0;
     margin-right: 0.7em;
-    width: 8em;
+    width: 90%;
     text-align: left;
     color: mix($text-color,$page-color, 80%);
     text-decoration: none;
+    @include bp(wide) {
+      width: 8em;
+    }
   }
   a:hover,
   a:focus {
