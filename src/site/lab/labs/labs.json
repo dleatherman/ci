@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/lab.md",
+  "tags": "lab",
+  "templateEngineOverride": "njk,md"
+}

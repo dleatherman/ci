@@ -38,11 +38,12 @@ body {
 }
 
 .container {
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
+  margin: 0.85em;
   text-align: left;
   @include bp(mid) {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
     width: 600px;
   }
   @include bp(wide) {
@@ -101,26 +102,29 @@ a:focus {
 
 
 .nav {
-  padding-top: 3em;
+  margin: 0;
+  padding: 3em 0 0 0;
 
   li {
     display: inline;
+    margin: 0;
+    padding: 0;
   }
 
   a:link,
   a:visited {
-    display: inline-block;
+    display: block;
     border-top: solid 1px mix($text-color,$page-color, 60%);
     border-bottom-style: none;
-    padding-top: 0.8em;
-    padding-bottom: 2em;
-    margin-left: 0;
-    margin-right: 0.7em;
-    width: 90%;
+    margin-bottom: 0.85em;
+    padding-top: 0.8em 0.85em 2em;
     text-align: left;
     color: mix($text-color,$page-color, 80%);
     text-decoration: none;
     @include bp(wide) {
+      display: inline-block;
+      margin-left: 0;
+      margin-right: 0.7em;
       width: 8em;
     }
   }
