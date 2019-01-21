@@ -1,6 +1,4 @@
-# EleventyOne
-
-Phil's first port of call when starting another project using Eleventy.
+# Spring 19: Core Interaction
 
 This project scaffold includes:
 
