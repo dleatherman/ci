@@ -1,5 +1,0 @@
-{
-  "layout": "layouts/lecture.md",
-  "tags": "lecture",
-  "templateEngineOverride": "njk,md"
-}

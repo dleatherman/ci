@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/basic.md",
+  "tags": "agendas",
+  "templateEngineOverride": "njk,md"
+}

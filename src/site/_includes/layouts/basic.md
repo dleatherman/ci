@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-pageClass: posts
+pageClass: basic
 templateEngineOverride: njk, md
 ---
 

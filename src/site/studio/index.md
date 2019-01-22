@@ -4,15 +4,15 @@ subtitle: Tuesdays + Fridays 9-11:40AM
 layout: layouts/base.njk
 ---
 
-### Reading
+## [Projects](/projects)
 
-### Lectures
+### Agendas
 
 <ul class="listing">
-{%- for page in collections.lecture -%}
+{%- for page in collections.agendas | reverse -%}
   <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
+    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time><br>
+    <a href="{{ page.url }}">{{ page.data.title }}</a>
   </li>
 {%- endfor -%}
 </ul>

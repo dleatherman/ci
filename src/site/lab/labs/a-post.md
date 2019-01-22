@@ -1,18 +1,18 @@
 ---
-title: A post page
-date: 2019-01-22
+title: A lab page
+date: 2019-01-23T19:00:00-04:00
 ---
 
 There's not much here in the sample post page. Better get to work.
 
-The common front-matter data for all of the files in the posts section are abstracted into a `posts.json` file so that we don't need to repeat that on every file. Handy.
+The common front-matter data for all of the files in the posts section are abstracted into a `labs.json` file so that we don't need to repeat that on every file. Handy.
 
 It looks like this:
 
 ```
 {
-  "layout" : "layouts/post.md",
-  "tags" : "post",
+  "layout" : "layouts/lab.md",
+  "tags" : "lab",
   "templateEngineOverride": "njk,md"
 }
 ```
