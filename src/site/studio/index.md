@@ -6,10 +6,13 @@ layout: layouts/base.njk
 
 <ul class="listing">
   <li>
+    <a href="https://prmlg.ht/cisp19" target="_blank">Syllabus</a>
+  </li>
+  <li>
     <a href="/projects/">Projects</a>
   </li>
   <li>
-    <a href="https://prmlg.ht/cisp19">Syllabus</a>
+    <a href="/studio/readings/">Readings</a>
   </li>
 </ul>
 
