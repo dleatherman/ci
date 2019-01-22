@@ -4,7 +4,14 @@ subtitle: Tuesdays + Fridays 9-11:40AM
 layout: layouts/base.njk
 ---
 
-## [Projects](/projects)
+<ul class="listing">
+  <li>
+    <a href="/projects/">Projects</a>
+  </li>
+  <li>
+    <a href="https://prmlg.ht/cisp19">Syllabus</a>
+  </li>
+</ul>
 
 ### Agendas
 
