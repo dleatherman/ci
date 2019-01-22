@@ -15,6 +15,7 @@ date: 2019-01-22T09:00:00-04:00
 
 ## Homework
 
+- [Email Dan](mailto:leatherd@newschool.edu) your favorite piece of work you've made with a brief desciption of why
 - Sign up for a [Github](https://github.com) account
 - Sign up for [Invision App](https://invisionapp.com)
 - Purchase [Sketch](https://www.sketchapp.com/store/edu/)
