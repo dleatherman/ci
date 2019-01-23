@@ -1,0 +1,22 @@
+---
+title: Events
+layout: layouts/base.njk
+---
+
+<ul class="listing unstyled">
+{%- for page in collections.events -%}
+  <li>
+    <h3><a href="{{ page.data.link }}">{{ page.data.title }}</a></h3>
+    {% if page.data.endDate %}
+    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }} - {{ page.data.endDate | dateDisplay }}</time>
+    <br>
+    {% else %}
+    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }} {% if page.data.time %}@ {{ page.data.time }}{% endif %}</time>
+    <br>
+    {% endif %}
+    <small>{{ page.data.location }}</small>
+    <br>
+    <hr>
+  </li>
+{%- endfor -%}
+</ul>

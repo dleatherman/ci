@@ -4,7 +4,8 @@ subtitle: Parsons School of Design Spring 2019
 layout: layouts/base.njk
 ---
 
-## [Projects](/projects)
+- [Projects](/projects)
+- [Events](/events)
 
 ## Helpful links
 
