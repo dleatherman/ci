@@ -33,3 +33,4 @@ layout: layouts/base.njk
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Squirrel Web Font Generator](http://www.fontsquirrel.com/tools/webfont-generator)
+- [Animate.css](https://daneden.github.io/animate.css/)
