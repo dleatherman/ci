@@ -21,8 +21,7 @@ layout: layouts/base.njk
 <ul class="listing">
 {%- for page in collections.agendas | reverse -%}
   <li>
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time><br>
-    <a href="{{ page.url }}">{{ page.data.title }}</a>
+    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>: <a href="{{ page.url }}">{{ page.data.title }}</a>
   </li>
 {%- endfor -%}
 </ul>

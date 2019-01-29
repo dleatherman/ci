@@ -1,6 +1,6 @@
 ---
 title: A lab page
-date: 2019-01-23T19:00:00-04:00
+date: 2019-01-23T19:00:00-05:00
 ---
 
 There's not much here in the sample post page. Better get to work.

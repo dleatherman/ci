@@ -16,7 +16,7 @@ date: 2019-01-25T09:00:00-04:00
 - Discussion
   - What ethical responsibilities do we have as makers?
 
-## Homework for next class
+## Homework
 
 - Take the exploratory [survey](https://prmlg.ht/2RHDhfI)
 - [Email Dan](mailto:leatherd@newschool.edu) your favorite piece of work you've made with a brief desciption of why

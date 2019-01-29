@@ -1,5 +1,5 @@
 ---
-title: The Good, The Bad & The Ugly
+title: The Good, The Bad, and The Ugly
 date: 2019-01-22T09:00:00-4:00
 dueDate: 2019-02-01T09:00:00-4:00
 ---

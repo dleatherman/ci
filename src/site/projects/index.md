@@ -11,6 +11,7 @@ There will be two small projects and three large projects to be completed betwee
 {%- for page in collections.project -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }} &rarr;</a>
+    <small>Due: {{ page.data.dueDate | dateDisplay }}</small>
   </li>
 {%- endfor -%}
 </ol>
