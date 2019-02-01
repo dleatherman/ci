@@ -6,7 +6,7 @@ date: 2019-02-01T09:00:00-04:00
 ## Agenda
 
 - Discuss Critique &amp; Participation Guidelines
-- Presentations of [The Good, The Bad, and The Ugly](/everything-is-designed/)
+- Presentations of [The Good, The Bad, and The Ugly](/projects/everything-is-designed/)
 - Introduce [Project 2: Layered](/projects/layered/)
 
 ## Presentation Order
