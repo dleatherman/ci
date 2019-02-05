@@ -5,8 +5,8 @@ date: 2019-02-05T09:00:00-04:00
 
 ## Agenda
 
-- Remaining presentations of [The Good, The Bad, and The Ugly](/projects/everything-is-designed/)
 - Reading presentation from Marissa on [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
+- Remaining presentations of [The Good, The Bad, and The Ugly](/projects/everything-is-designed/)
 - Positioning Workshop
   - Relative
   - Absolute
