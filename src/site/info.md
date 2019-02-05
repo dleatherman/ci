@@ -18,9 +18,13 @@ The lab class meets on Wednesday evenings from 7 to 9:40PM in 2 W 13th, Room 311
 
 Dan Leatherman, Studio<br><a href="mailto:leatherd@newschool.edu">leatherd@newschool.edu</a>
 
-Jeremy Smith, Lab<br><a href="mailto:@newschool.edu">@newschool.edu</a>
+Jeremy Smith, Lab<br><a href="mailto:smithj4@newschool.edu">smithj4@newschool.edu</a>
 
-We will be assigned a TA and they hold office hours each week. Please email them if you would like to schedule a time to meet one-on-one for some extra coding help, or to talk through technical challenges you may be having.
+TA: Eraince Wang <br><a href="mailto:wangp701@newschool.edu">wangp701@newschool.edu</a>
+
+Office hours:<br>
+Every Wednesday, 3-5pm
+L408 XS Meeting Room
 
 
 

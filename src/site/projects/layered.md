@@ -8,7 +8,7 @@ Consider the human body as a complex network of systems, there are different sys
 
 Your task is to notice layers (nodes) in systems and how they function individually and together. Using shapes, images, styles, and typography, create a website inspired by layers found in nature or in the created world.
 
-Check [Studio](/studio) or [Lab](/lab) sites for more detailed milestones.
+Check [Studio](/studio) site for more detailed milestones.
 
 ## Requirements
 
