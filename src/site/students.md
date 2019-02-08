@@ -10,12 +10,12 @@ layout: layouts/base.njk
 - Adelai Evans
 - Monica Faltas
 - Martina Gallo
-- Kyutae Kim
+- You Sun Kim
 - Joyce Lin
 - Misty Lin
 - Germaine Zhi Qiao Mai
-- Zeina Muhtadi
 - Su Jin Oh
+- Ruofei Rao
 - Carolina Stierli De Abreu
 - Rachael Tomaszewski
 - Ariana Ushiki
