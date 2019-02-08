@@ -13,7 +13,16 @@ date: 2019-02-08T09:00:00-04:00
   4. Carolina Stierli De Abreu, Rachael Tomaszewski, Joyce Lin
 - Work Time
 
+## References
+
+- [Scrollmagic](http://scrollmagic.io/)
+- [Waypoints](http://imakewebthings.com/waypoints/guides/getting-started/)
+- [Wow.js](https://www.delac.io/wow/)
+- [AOS - Animate on Scroll](https://michalsnik.github.io/aos/)
+- [Scroll Reveal](https://scrollrevealjs.org/)
+
 ## Homework
 
-- Read [No to No UI](https://prmlg.ht/2DmCKWA) and Contribute a [discussion question](https://prmlg.ht/2Gwxjro) 
-- Come Tuesday with at least 3 prototypes for your project, [Layered](/projects/layered)
+- Read [No to No UI](https://prmlg.ht/2DmCKWA) and Contribute a [discussion question](https://prmlg.ht/2Gwxjro)
+- Add your **3 big rocks** to the [discussion on canvas](https://prmlg.ht/2TCES3p) and comment on others'
+- Come Tuesday with at least **3 of your big rocks prototyped** for your project, [Layered](/projects/layered)
