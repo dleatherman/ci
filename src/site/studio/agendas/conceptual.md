@@ -24,5 +24,5 @@ date: 2019-02-08T09:00:00-04:00
 ## Homework
 
 - Read [No to No UI](https://prmlg.ht/2DmCKWA) and Contribute a [discussion question](https://prmlg.ht/2Gwxjro)
-- Add your **3 big rocks** to the [discussion on canvas](https://prmlg.ht/2TCES3p) and comment on others'
+- Add your **3 big rocks** to the [discussion on canvas](https://prmlg.ht/2RKm0hn) and comment on others'
 - Come Tuesday with at least **3 of your big rocks prototyped** for your project, [Layered](/projects/layered)
