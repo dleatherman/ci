@@ -1,7 +1,7 @@
 ---
 title: Layered
 date: 2019-02-01T09:00:00-4:00
-dueDate: 2019-02-19T09:00:00-4:00
+dueDate: 2019-02-22T09:23:59-4:00
 ---
 
 Consider the human body as a complex network of systems, there are different systems and organs working together to form a larger network of life. Drawing inspiration from [The Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0) by Charles &amp; Ray Eames, as a way to think about perspective, we'll be exploring complex layered systems working together in context and concert.
