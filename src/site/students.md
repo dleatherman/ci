@@ -19,3 +19,26 @@ layout: layouts/base.njk
 - Carolina Stierli De Abreu
 - Rachael Tomaszewski
 - Ariana Ushiki
+
+<!-- 
+Vlora
+Emily
+Lilly
+Danielle
+Adelai
+Monica
+Martina
+Marissa
+Joyce
+Misty
+Germaine
+SuJin
+Ruofei
+Carolina
+Rachael
+Ariana
+
+
+Random Teams: https://www.randomlists.com/team-generator
+Random Order: https://www.random.org/lists/
+-->
