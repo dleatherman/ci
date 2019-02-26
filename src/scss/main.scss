@@ -27,6 +27,7 @@ body {
   background-color: $page-color;
   color: mix($text-color, $page-color, 80%);
   font-family: 'Space Mono', sans-serif;
+  font-variant-ligatures: no-common-ligatures;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.075em;
