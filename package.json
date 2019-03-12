@@ -17,7 +17,7 @@
     "url": "https://github.com/dleatherman/ci"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.5.2",
+    "@11ty/eleventy": "^0.7.1",
     "concurrent-transform": "^1.0.0",
     "gravatar": "^1.6.0",
     "gulp": "^4.0.0",
