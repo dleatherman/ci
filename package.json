@@ -7,7 +7,7 @@
   "scripts": {
     "gen": "gulp generate",
     "start": "yarn run build && yarn run serve",
-    "build": "gulp build && yarn run build:functions",
+    "build": "gulp build",
     "build:local": "gulp build:local",
     "build:functions": "netlify-lambda build src/lambda",
     "serve": "gulp watch & gulp serve"
