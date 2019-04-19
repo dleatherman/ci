@@ -6,9 +6,12 @@ date: 2019-04-19T09:00:00-04:00
 ## Agenda
 
 - Building a dynamic Github profile page
-  - [Example](https://prmlg.ht/2Uu4Juh)
-  - [Complete Code](https://prmlg.ht/2Gn8VHa)
-  - [JS Code](https://github.com/dleatherman/dleatherman.github.io/blob/master/sp19-ci/api/js/scripts.js)
+  - [Github example](https://prmlg.ht/2Uu4Juh)
+   - [Complete Code](https://prmlg.ht/2Gn8VHa)
+   - [JS Code](https://github.com/dleatherman/dleatherman.github.io/blob/master/sp19-ci/api/js/scripts.js)
+  - [Weather example](https://prmlg.ht/2ZkpNqy)
+    - [Complete Code](https://prmlg.ht/2ZweSu6)
+    - [JS Code](https://prmlg.ht/2DkSs5q)
 - Small group idea scrum
   - **Group 1**: Adelai, Martina, Joyce, Misty, Marissa
   - **Group 2**: SuJin, Ariana, Ruofei, Rachael
