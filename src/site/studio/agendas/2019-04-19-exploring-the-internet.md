@@ -15,6 +15,11 @@ date: 2019-04-19T09:00:00-04:00
   - **Group 3**: Lilly, Danielle, Carolina, Vlora, Monica
 - Group work on APIs
 
+### References
+
+- [IconSVG](http://iconsvg.xyz)
+- [Fetch Example](https://gist.github.com/dleatherman/65dcc3314d2b169eb222d79da42fc87b)
+
 ### Homework
 
 - Submit a response to the idea discussion [on canvas](https://prmlg.ht/2VPE3W7) and comment on a mininum of 3 other ideas by 4/23
