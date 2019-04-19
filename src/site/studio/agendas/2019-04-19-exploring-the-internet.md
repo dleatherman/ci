@@ -12,7 +12,7 @@ date: 2019-04-19T09:00:00-04:00
 - Small group idea scrum
   - **Group 1**: Adelai, Martina, Joyce, Misty, Marissa
   - **Group 2**: SuJin, Ariana, Ruofei, Rachael
-  - **Group 3**: Lilly, Danielle, Carolina, Vlora
+  - **Group 3**: Lilly, Danielle, Carolina, Vlora, Monica
 - Group work on APIs
 
 ### Homework
