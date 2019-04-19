@@ -13,7 +13,6 @@ layout: layouts/base.njk
 - You Sun Kim
 - Joyce Lin
 - Misty Lin
-- Germaine Zhi Qiao Mai
 - Su Jin Oh
 - Ruofei Rao
 - Carolina Stierli De Abreu
@@ -31,7 +30,6 @@ Martina
 Marissa
 Joyce
 Misty
-Germaine
 SuJin
 Ruofei
 Carolina
