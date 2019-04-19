@@ -1,7 +1,7 @@
 ---
 title: Processing Processing
 date: 2019-03-26T09:00:00-4:00
-dueDate: 2019-04-05T09:00:00-4:00
+dueDate: 2019-04-12T09:00:00-4:00
 ---
 
 P5.js is a great way to introduce ourselves to mathematics and the basics of JavaScript. Focusing on user input, you will create a dynamic composition based on touch, click, keys, or some other form of user input. Each composition will be individual and dynamic, but also be downloaded and archived by the user.
