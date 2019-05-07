@@ -29,8 +29,6 @@ HTML, CSS, Javascript, and the use of an API
 
 - [IconSVG](http://iconsvg.xyz)
 
-<script src="https://gist.github.com/dleatherman/65dcc3314d2b169eb222d79da42fc87b.js"></script>
-
 ### Presentation Order
 
 - Tuesday
@@ -49,3 +47,4 @@ HTML, CSS, Javascript, and the use of an API
   4. Rachael
   5. Emily
   6. Ariana
+  7. Marissa
